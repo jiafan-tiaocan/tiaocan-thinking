@@ -1,5 +1,12 @@
 ---
-title: "努力做一个可以让人记住的Diffusion推导"
+title: 努力做一个可以让人记住的 Diffusion 推导
+description: 从直觉、概率建模到 ELBO、Score Matching 与 Flow Matching，系统理解 Diffusion。
+tags:
+  - Diffusion
+  - 生成模型
+  - 深度学习
+date: 2026-07-16
+publish: true
 ---
 
 Diffusion是一场大型数学推演。
