@@ -431,7 +431,8 @@ $$
 $$\mathcal N(x;\mu,\sigma^2I)$$
 对于x的score为：
 $$
-\nabla_x\log \mathcal N(x;\mu,\sigma^2I)=-\frac{x-\mu}{\sigma^2}$$
+\nabla_x\log \mathcal N(x;\mu,\sigma^2I)=-\frac{x-\mu}{\sigma^2}
+$$
 
 因此带入可以求得
 $$
